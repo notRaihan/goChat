@@ -1,4 +1,4 @@
-module github.com/notraihan/realtime-chat-go-react
+module realtime-chat-go-react
 
 go 1.20
 
