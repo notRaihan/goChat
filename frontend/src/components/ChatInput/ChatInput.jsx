@@ -11,4 +11,4 @@ class ChatInput extends Component {
     }
 }
 
-export default ChatInput
+export default ChatInput;
